@@ -9,3 +9,4 @@ Qt components developed by Indeema Software. All these components are available 
   - qpm install QSimpleScada
   - [Available sample](https://github.com/IndeemaSoftware/QSimpleScadaSample) - simple SCADA configuration solution based on QSimpleScada
 - [QDashBoard](https://github.com/IndeemaSoftware/QDashBoard) - QML based IoT dashboard for escalator maintenance application. With overview statistics, detailed map and buildings plan.
+- [EEIOT](https://github.com/IndeemaSoftware/EEIoT) - QML based of IoT components.
