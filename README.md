@@ -10,3 +10,4 @@ Qt components developed by Indeema Software. All these components are available 
   - [Available sample](https://github.com/IndeemaSoftware/QSimpleScadaSample) - simple SCADA configuration solution based on QSimpleScada
 - [QDashBoard](https://github.com/IndeemaSoftware/QDashBoard) - QML based IoT dashboard for escalator maintenance application. With overview statistics, detailed map and buildings plan.
 - [EEIoT](https://github.com/IndeemaSoftware/EEIoT) - QML IoT components.
+- [Smart Lock](https://github.com/IndeemaSoftware/SmartLock) - Python clinet for RasPi, iOS and Android clients. This smart lock auth is made with redmine and can be replaced with any other online platform
